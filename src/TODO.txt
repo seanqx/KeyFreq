@@ -1,0 +1,7 @@
+ToDo List:
+*. Improve the performance of the GUI display.
+*. Expand the node which expanded by user only.
+*. Store expanded nodes data and load it when app starts.
+*. Store current key frequence data on exit.
+*. Load pre-stored key frequence data on start.
+*. TBD.
