@@ -9,5 +9,5 @@ CMD to the src folder, then
 C:\User\Admin\KeyFreq\src> python keyfreq.py
 
 ## How to make exe
-### Pip install cx_Freeze first, then 
+#### Pip install cx_Freeze first, then 
 C:\User\Admin\KeyFreq\src> build.bat
